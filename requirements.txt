@@ -1,0 +1,4 @@
+google-adk
+groq
+sqlite-utils
+python-dotenv
